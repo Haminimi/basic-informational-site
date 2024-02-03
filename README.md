@@ -6,16 +6,19 @@
 ## Tech
 **The project is built with:**
 - HTML
-- Node.js
+- Node.js/Express
 
 **Tools**
 - Git
 - Visual Studio Code
 ## Covered Topics
 **This section mentions the main topics covered during project work and prior lessons**
-- Creating a server with Node.js
+- Creating a server with Node.js/Express
 ## Reflection
 The previous lessons covered the fundamentals of Node.js. Here, we have created a basic site where we can navigate a few links using Node.js.
+
+#### Update 🔄
+The code is now refactored, and the server is created with Express.
 ## Author
 - [GitHub](https://github.com/Haminimi)
 - [Exercism](https://exercism.org/profiles/Haminimi)
