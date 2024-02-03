@@ -5,23 +5,23 @@
 [The Site](https://replit.com/@Haminimi/basic-informational-site).
 ## Tech
 **The project is built with:**
-- HTML
-- Node.js/Express
+-   HTML
+-   Node.js/Express
 
 **Tools**
-- Git
-- Visual Studio Code
+-   Git
+-   Visual Studio Code
 ## Covered Topics
 **This section mentions the main topics covered during project work and prior lessons**
-- Creating a server with Node.js/Express
+-   Creating a server with Node.js/Express
 ## Reflection
 The previous lessons covered the fundamentals of Node.js. Here, we have created a basic site where we can navigate a few links using Node.js.
 
 #### Update 🔄
-The code is now refactored, and the server is created with Express. The old vanilla Node server can be found in the archive directory.
+The code has been refactored, and the server is now created with Express. The old vanilla Node server can be found in the archive directory. While the router is redundant in this code, since we can achieve the same behavior by serving all the pages as static from the static directory, it is kept for practice purposes.
 ## Author
-- [GitHub](https://github.com/Haminimi)
-- [Exercism](https://exercism.org/profiles/Haminimi)
-- [LeetCode](https://leetcode.com/Haminimi/)
-- Email: haminimi.dev@gmail.com
+-   [GitHub](https://github.com/Haminimi)
+-   [Exercism](https://exercism.org/profiles/Haminimi)
+-   [LeetCode](https://leetcode.com/Haminimi/)
+-   Email: haminimi.dev@gmail.com
 ## Happy coding!
