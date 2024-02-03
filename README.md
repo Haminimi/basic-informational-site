@@ -18,7 +18,7 @@
 The previous lessons covered the fundamentals of Node.js. Here, we have created a basic site where we can navigate a few links using Node.js.
 
 #### Update 🔄
-The code is now refactored, and the server is created with Express.
+The code is now refactored, and the server is created with Express. The old vanilla Node server can be found in the archive directory.
 ## Author
 - [GitHub](https://github.com/Haminimi)
 - [Exercism](https://exercism.org/profiles/Haminimi)
