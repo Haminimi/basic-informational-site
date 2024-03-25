@@ -9,8 +9,8 @@
 -   Node.js/Express
 
 **Tools**
--   Git
 -   Visual Studio Code
+-   Git
 ## Covered Topics
 **This section mentions the main topics covered during project work and prior lessons**
 -   Creating a server with Node.js/Express
